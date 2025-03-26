@@ -25,7 +25,7 @@ Wandering the post-human wastes in search of a soul to entertain, WURMLO1D [B0BB
 ***
 
 ## Notes
-This voicebank was trained with the "Multi-Dict" branch of DiffSinger. This is supported by the current beta of OpenUTAU. The following is a list of language tags used by "Irone Aka [IRIDESCENT] for DiffSinger":
+This voicebank was trained with the "Multi-Dict" branch of DiffSinger. This is supported by the current beta of OpenUTAU. The following is a list of language tags used by "WURMLOID for DiffSinger":
 
 | Language | Tag |
 | :----- | ---: |
